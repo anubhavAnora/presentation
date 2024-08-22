@@ -5,7 +5,7 @@ void add(int a, int b) {
 }
 
 int main() {
-    // changes made by surenthar
+    // changes in main
     add(2, 4);
     printf("Hello, from main");
     return 0;
