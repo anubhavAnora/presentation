@@ -4,13 +4,6 @@ Name: xyz
 College: abc
 State: mno
 
-<<<<<<< HEAD
-
-Name: Antony P D
-College: CET
-State: Kerala
-
-=======
 Name: Surenthar S
 College: CIT
 State: Tamil Nadu
@@ -18,4 +11,3 @@ State: Tamil Nadu
 Name: Anubhav
 College: SIT
 State: Jharkhand
->>>>>>> 87231b9 (adding name)
